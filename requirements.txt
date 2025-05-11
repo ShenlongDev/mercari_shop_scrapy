@@ -1,0 +1,8 @@
+pyperclip
+pillow
+requests
+pynput
+pystray
+schedule
+selenium
+pandas
